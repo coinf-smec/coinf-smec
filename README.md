@@ -1,47 +1,43 @@
-# 👋 Bem-vindo ao perfil oficial da Coordenação de Informática - SMEC
+# 👋 Coordenação de Informática – SMEC
 
-> 🌐 Coordenação de Informática 
-- Repositórios, tutoriais e ferramentas usadas na rede municipal.
-
----
-
-### 🛠️ Sobre Nós
-
-Este perfil é mantido pela **Coordenação de Informática da Secretaria Municipal de Educação**, responsável por:
-- Desenvolvimento de soluções internas  
-- Automação de processos educacionais  
-- Automação de rotinas em servidores
-- Apoio técnico às equipes pedagógicas e administrativas  
+> Perfil oficial da Coordenação de Informática da Secretaria Municipal de Educação.
 
 ---
 
-### 📁 Projetos em Destaque
+## 🛠️ Sobre
 
- 
-- [ ] Plataforma de Tutoriais Técnicos  
-- [ ] Scripts de automação institucional  
-- [ ] Scripts de automação em servidores  
-- [ ] Scripts de automação em infraestrutura de rede  
-- [ ] Integração entre sistemas educacionais  
+A **Coordenação de Informática da SMEC** atua no desenvolvimento, manutenção e documentação de soluções técnicas utilizadas em toda a rede municipal de ensino.
 
----
-
-### 📘 Tutoriais & Documentação
-
-Você encontrará guias sobre:
-- Instalação de aplicativos gerais  
-- Instalação de ambientes técnicos  
-- Configuração de ferramentas institucionais  
-- Tutorias de usabilidade de impressoras
-- Tutorias de usabilidade de scanners
-
+### Principais atividades:
+- Automação de rotinas administrativas e educacionais  
+- Scripts de manutenção para servidores e infraestrutura  
+- Apoio técnico a setores pedagógicos e operacionais  
+- Elaboração de tutoriais e guias de uso de sistemas institucionais  
 
 ---
 
-### 🔗 Links Úteis
+## 🔐 Acesso
 
-- 📂 [Repositório Principal](https://github.com/coinf-smec/coinf-smec) 
+Este repositório é **privado** e de uso interno da equipe técnica da SMEC.  
+Alguns conteúdos são tornados públicos para fins de capacitação e suporte institucional controlado.
 
 ---
 
-🔒 *Acesso restrito à equipe autorizada.*
+## 📘 Repositórios Públicos
+
+Disponibilizamos conteúdos selecionados como:
+
+- Tutoriais técnicos (instalações, configurações, boas práticas)  
+- Ferramentas básicas de suporte técnico  
+- Guias de uso para ambientes escolares e administrativos  
+
+---
+
+## 📞 Contato Interno
+
+**Setor:** Coordenação de Informática – SMEC  
+**Canal de Suporte:** [via sistema interno ou contato técnico autorizado]
+
+---
+
+📅 *Última atualização:* junho de 2025
