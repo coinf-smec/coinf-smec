@@ -1,7 +1,7 @@
 # 👋 Bem-vindo ao perfil oficial da Coordenação de Informática - SMEC
 
 > 🌐 Coordenação de Informática 
-- Repositórios, tutoriais e ferramentas usadas pela equipe técnica da educação municipal.
+- Repositórios, tutoriais e ferramentas usadas na rede municipal.
 
 ---
 
