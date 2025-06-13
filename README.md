@@ -41,7 +41,6 @@ Você encontrará guias sobre:
 ### 🔗 Links Úteis
 
 - 📂 [Repositório Principal](https://github.com/coinf-smec/coinf-smec) 
-- 📨 [Contato Técnico](mailto:ti.smec@edu.pmbv.rr.gov.br)
 
 ---
 
